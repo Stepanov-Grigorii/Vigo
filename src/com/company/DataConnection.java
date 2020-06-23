@@ -2,9 +2,6 @@ package com.company;
 
 import java.io.IOException;
 
-/**
- * @param
- */
 public interface DataConnection {
     /**
      * Метод, определяющий колличество людей,
